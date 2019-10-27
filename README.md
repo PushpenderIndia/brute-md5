@@ -117,6 +117,17 @@ $ python brute_md5.py -p cb814ff9b375e089e2e5e39d8a41e047 -w passwd.txt -o resul
 ### Note : Procedure for cracking is same in all OS
 
 ## Screenshots:
+#### Getting Help
+![](/img/1.getting_help.PNG)
+
+#### Cracking Hash Without Saving Result 
+![](/img/2.cracking_hash.PNG)
+
+#### Cracking Hash & Saving Result 
+![](/img/3.cracking_hash_saving_result.PNG)
+
+#### Result Got Saved in .txt file 
+![](/img/4.saved_result_txt.PNG)
 
 ## Contributors:
 Currently this repo is maintained by me (Pushpender Singh). Owner of https://www.technowlogy.tk Website.
