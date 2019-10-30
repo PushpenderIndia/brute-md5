@@ -118,13 +118,13 @@ $ python brute_md5.py -p cb814ff9b375e089e2e5e39d8a41e047 -w passwd.txt -o resul
 
 ## Screenshots:
 #### Getting Help
-![](/img/1.getting_help.PNG)
+![](/img/1._getting_help.PNG)
 
 #### Cracking Hash Without Saving Result 
-![](/img/2.cracking_hash.PNG)
+![](/img/2._cracking_hash.PNG)
 
 #### Cracking Hash & Saving Result 
-![](/img/3.cracking_hash_saving_result.PNG)
+![](/img/3._cracking_hash_saving_result.PNG)
 
 #### Result Got Saved in .txt file 
 ![](/img/4.saved_result_txt.PNG)
