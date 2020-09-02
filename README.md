@@ -3,13 +3,13 @@
     <a href="https://python.org">
     <img src="https://img.shields.io/badge/Python-3.7-green.svg">
   </a>
-  <a href="https://github.com/Technowlogy-Pushpender/technowhorse/blob/master/LICENSE">
+  <a href="https://github.com/PushpenderIndia/technowhorse/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-BSD%203-lightgrey.svg">
   </a>
-  <a href="https://github.com/Technowlogy-Pushpender/technowhorse/releases">
+  <a href="https://github.com/PushpenderIndia/technowhorse/releases">
     <img src="https://img.shields.io/badge/Release-1.0-blue.svg">
   </a>
-    <a href="https://github.com/Technowlogy-Pushpender/technowhorse">
+    <a href="https://github.com/PushpenderIndia/technowhorse">
     <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen.svg">
   </a>
 </p>
@@ -56,7 +56,7 @@ THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. YOU MAY USE THIS
 $ Install latest python 3.x
 
 # Clone this repository
-$ git clone https://github.com/Technowlogy-Pushpender/brute-md5.git
+$ git clone https://github.com/PushpenderIndia/brute-md5.git
 
 # Go into the repository
 $ cd brute-md5
@@ -88,7 +88,7 @@ $ python brute_md5.py -p cb814ff9b375e089e2e5e39d8a41e047 -w passwd.txt -o resul
 $ Install latest python 3.x
 
 # Clone this repository
-$ git clone https://github.com/Technowlogy-Pushpender/brute-md5.git
+$ git clone https://github.com/PushpenderIndia/brute-md5.git
 
 # Go into the repository
 $ cd brute-md5
@@ -130,7 +130,7 @@ $ python brute_md5.py -p cb814ff9b375e089e2e5e39d8a41e047 -w passwd.txt -o resul
 ![](/img/4.saved_result_txt.PNG)
 
 ## Contributors:
-Currently this repo is maintained by me (Pushpender Singh). Owner of https://www.technowlogy.tk Website.
+Currently this repo is maintained by me (Pushpender Singh).
 
 All contributor's pull request will be accepted if their pull request is worthy for this repo.
 
@@ -140,10 +140,9 @@ All contributor's pull request will be accepted if their pull request is worthy 
 - [ ] Add New Hash Cracking Function
 
 ## Contact 
-singhpushpender250@gmail.com or [Contact Us](https://technowlogy.tk/contact-us)
+singhpushpender250@gmail.com
 
 ## Buy Me A Coffee
 
 * Support my Open Source projects by making Donation, It really motivates me to work on more projects
-* PayPal Address: https://paypal.me/anonyindia
-* PayPal Email: `singhpushpender250@gmail.com`
+* PayPal Email: `shrisatender@gmail.com` [**Please Don't Send Emails to This Address**]
